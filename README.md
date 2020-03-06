@@ -1,5 +1,8 @@
-# siacoin price gnome ticket 
+# siacoin gnome price ticker
 
-Gnome 3 desktop ticker for siacoin price with Python and argos. Rename to siacoin.1r.60s.py and put in ~/.config/argos
+Get siacoin price in Python [https://pythonbasics.org](https://pythonbasics.org).
+See [https://codesharedot.github.io/siacoin-price-gnome-ticket/](https://codesharedot.github.io/siacoin-price-gnome-ticket/)
 
-https://pythonbasics.org
+siacoin price ticker for Gnome desktop. Gets the price with Python and argos.
+
+Rename to siacoin.1r60s.py and put in ~/.config/argos
